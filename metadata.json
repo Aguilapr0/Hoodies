@@ -1,0 +1,6 @@
+{
+  "name": "KÓDICE — Streetwear & Heavyweight Essentials",
+  "description": "Tienda oficial de moda urbana contemporánea en Colombia. Hoodies heavyweight, esenciales minimalistas y colecciones de edición limitada diseñadas para todos los días.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
